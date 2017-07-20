@@ -142,7 +142,7 @@ hr {
 }
 .btn-default {
 	color: #fff;
-	background-color: transparent;
+	background-color: #000;
 	border-color: #fff;
 	padding: 10px 20px;
 	margin: 0;
